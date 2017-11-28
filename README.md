@@ -2,4 +2,4 @@
 
 Visit the wiki for details: 
 
-![BitCoin](https://github.com/joshuawwbrown/cryptoCurrency/blob/master/btc.png)
+https://github.com/joshuawwbrown/cryptoCurrency/wiki
