@@ -1,4 +1,4 @@
-# How and why to trade CryptoCurrency
+# How and Why to Speculate on CryptoCurrency
 
 Visit the wiki for details: 
 
